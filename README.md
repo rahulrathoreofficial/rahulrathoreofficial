@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  I'm an M.Sc. Physics graduate with a strong foundation in experimental physics, materials science, and computational tools. My research on <b>PMMA-MWCNT composites for X-Ray sensing</b> at Delhi University (under Dr. Kulvinder Singh) sparked my interest in building things that matter — both in the lab and in code.<br><br>
+  I'm a M.Sc. Physics graduate with a strong foundation in experimental physics, materials science, and computational tools. My research on <b>PMMA-MWCNT composites for X-Ray sensing</b> at Delhi University (under Dr. Kulvinder Singh) sparked my interest in building things that matter — both in the lab and in code.<br><br>
   Beyond the lab, I channel my analytical mindset into developing apps, websites, software tools, and games. I believe the same scientific rigor applied to physics experiments can create exceptional digital experiences.<br><br>
   <b>Research Focus:</b> X-Ray sensing, thin film deposition (PVD sputtering), glow discharge physics, composite materials<br>
   <b>Development Focus:</b> Cross-platform apps (Flutter), scientific computing (Python/MATLAB), web experiences<br>
