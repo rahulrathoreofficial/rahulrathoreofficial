@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=&fontSize=0" width="100%">
-  
+
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=RAHUL+KUMAR+RATHORE" alt="RAHUL KUMAR RATHORE" />
-  
+
   <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=20&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=700&height=35&lines=Physicist+%C2%B7+Developer+%C2%B7+Researcher;M.Sc.+Physics+%7C+Experimental+Research+%7C+Thin+Films" alt="Subtitle" />
-  
+
   <p>
     <img src="https://img.shields.io/badge/%F0%9F%93%8D_Rishikesh,_Uttarakhand-0a0a0a?style=flat-square&logoColor=888888&labelColor=1a1a1a&color=333333" />
     &nbsp;
@@ -12,7 +12,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/%F0%9F%94%AC_Delhi_University_Research-0a0a0a?style=flat-square&logoColor=888888&labelColor=1a1a1a&color=333333" />
   </p>
-  
+
   <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1" width="60%">
 </div>
 
@@ -91,87 +91,104 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="420" valign="top">
-
-### 🧮 Mathnetic
-<img src="https://img.shields.io/badge/In%20Development-555555?style=flat-square&labelColor=0a0a0a&color=444444" />
-
-Competitive math exam prep app with **11 themes**, brain gym games, aptitude dojo, duel modes, and **20+ calculators**. Working beta — actively being built.
-
-<img src="https://img.shields.io/badge/Flutter-333?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Dart-333?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=white&labelColor=1a1a1a" />
-
+    <td width="50%" valign="top">
+      <h3>🧮 Mathnetic</h3>
+      <img src="https://img.shields.io/badge/In%20Development-555555?style=flat-square&labelColor=0a0a0a&color=444444" />
+      <p>Competitive math exam prep app with <b>11 themes</b>, brain gym games, aptitude dojo, duel modes, and <b>20+ calculators</b>. Working beta — actively being built.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-333?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/Dart-333?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=white&labelColor=1a1a1a" />
+      </p>
     </td>
-    <td width="420" valign="top">
-
-### 🌐 Portfolio Website
-<img src="https://img.shields.io/badge/Live-ffffff?style=flat-square&labelColor=0a0a0a&color=ffffff" />
-
-Personal portfolio and blog built with vanilla web technologies. Features particle animations, dual themes, custom cursor, and scroll reveal effects.
-
-<img src="https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/JS-333?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a1a" />
-
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <img src="https://img.shields.io/badge/Live-ffffff?style=flat-square&labelColor=0a0a0a&color=ffffff" />
+      <p>Personal portfolio and blog built with vanilla web technologies. Features particle animations, dual themes, custom cursor, and scroll reveal effects.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/JS-333?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a1a" />
+      </p>
     </td>
   </tr>
-  <tr><td colspan="2"></td></tr>
+  <tr><td colspan="2" height="20"></td></tr>
   <tr>
-    <td width="420" valign="top">
-
-### ☢️ X-Ray Sensing Suite
-<img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-
-MATLAB & Python toolkit for analyzing **PMMA-MWCNT composite** X-Ray sensing data. Planned for future development.
-
-<img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/MATLAB-333?style=flat-square&logo=mathworks&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a1a" />
-
+    <td width="50%" valign="top">
+      <h3>☢️ X-Ray Sensing Suite</h3>
+      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
+      <p>MATLAB & Python toolkit for analyzing <b>PMMA-MWCNT composite</b> X-Ray sensing data. Planned for future development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/MATLAB-333?style=flat-square&logo=mathworks&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a1a" />
+      </p>
     </td>
-    <td width="420" valign="top">
-
-### 🔬 Thin Film Simulator
-<img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-
-Educational simulation of **PVD sputtering** and glow discharge processes. Planned for future development.
-
-<img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Tkinter-333?style=flat-square&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/SciPy-333?style=flat-square&logo=scipy&logoColor=white&labelColor=1a1a1a" />
-
+    <td width="50%" valign="top">
+      <h3>🔬 Thin Film Simulator</h3>
+      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
+      <p>Educational simulation of <b>PVD sputtering</b> and glow discharge processes. Planned for future development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/Tkinter-333?style=flat-square&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/SciPy-333?style=flat-square&logo=scipy&logoColor=white&labelColor=1a1a1a" />
+      </p>
     </td>
   </tr>
-  <tr><td colspan="2"></td></tr>
+  <tr><td colspan="2" height="20"></td></tr>
   <tr>
-    <td width="420" valign="top">
-
-### ⚛️ Quantum Puzzle
-<img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-
-Physics-based puzzle game manipulating **electromagnetic fields**. Planned for future development.
-
-<img src="https://img.shields.io/badge/Unity-333?style=flat-square&logo=unity&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/C%23-333?style=flat-square&logoColor=white&labelColor=1a1a1a" />
-
+    <td width="50%" valign="top">
+      <h3>⚛️ Quantum Puzzle</h3>
+      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
+      <p>Physics-based puzzle game manipulating <b>electromagnetic fields</b>. Planned for future development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-333?style=flat-square&logo=unity&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/C%23-333?style=flat-square&logoColor=white&labelColor=1a1a1a" />
+      </p>
     </td>
-    <td width="420" valign="top">
-
-### 📐 Physics Formula Hub
-<img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-
-Comprehensive reference app for physics formulas and constants. Planned for future development.
-
-<img src="https://img.shields.io/badge/Flutter-333?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/Dart-333?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/LaTeX-333?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a1a" />
-
+    <td width="50%" valign="top">
+      <h3>📐 Physics Formula Hub</h3>
+      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
+      <p>Comprehensive reference app for physics formulas and constants. Planned for future development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-333?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/Dart-333?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a1a" />
+        <img src="https://img.shields.io/badge/LaTeX-333?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a1a" />
+      </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1" width="60%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=250&height=30&lines=CONTRIBUTIONS" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrathoreofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathoreofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=888888&sideNums=888888" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrathoreofficial&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=888888&line=ffffff&point=ffffff&area=true&area_color=333333" width="96%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathoreofficial&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&langs_count=8" width="48%" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1" width="60%">
