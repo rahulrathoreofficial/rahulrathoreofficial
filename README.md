@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=RAHUL+KUMAR+RATHORE;Physicist+%C2%B7+Developer+%C2%B7+Researcher;M.Sc.+Physics+%7C+Experimental+Research;Flutter+%7C+Python+%7C+MATLAB+%7C+Thin+Films" alt="Typing SVG" /></a>
+<!-- Animated Typing Header — width increased to 800 to prevent truncation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=40&lines=RAHUL+KUMAR+RATHORE;Physicist+%C2%B7+Developer+%C2%B7+Researcher;M.Sc.+Physics+%7C+Experimental+Research;Flutter+%7C+Python+%7C+MATLAB+%7C+Thin+Films" alt="Typing SVG" /></a>
 
 <!-- Subtitle -->
 <p align="center">
