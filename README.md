@@ -22,14 +22,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=ABOUT+ME" />
 </div>
 
+<br>
+
 <pre align="center">
-┌─────────────────────────────────────────────────────────────────────────┐
-│  rahul@github:~$ whoami                                                 │
-│  > Rahul Kumar Rathore                                                  │
-│  > M.Sc. Physics | H.N.B. Garhwal University                            │
-│  > Experimental Physicist turned Developer                              │
-│  > Based in Rishikesh, Uttarakhand, India                               │
-└─────────────────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════════════╗
+║  <span style="color:#ff5f56">●</span> <span style="color:#ffbd2e">●</span> <span style="color:#27c93f">●</span>  rahul@github — zsh — 80x24                                          ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║                                                                            ║
+║  $ whoami                                                                  ║
+║  Rahul Kumar Rathore                                                       ║
+║                                                                            ║
+║  $ echo $degree                                                            ║
+║  M.Sc. Physics | H.N.B. Garhwal University                                 ║
+║                                                                            ║
+║  $ echo $role                                                              ║
+║  Experimental Physicist turned Developer                                   ║
+║                                                                            ║
+║  $ echo $location                                                          ║
+║  Rishikesh, Uttarakhand, India                                             ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 <p align="center">
@@ -94,7 +106,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧮 Mathnetic</h3>
+      <h3>Σ Mathnetic</h3>
       <img src="https://img.shields.io/badge/In%20Development-555555?style=flat-square&labelColor=0a0a0a&color=444444" />
       <p>Competitive math exam prep app with <b>11 themes</b>, brain gym games, aptitude dojo, duel modes, and <b>20+ calculators</b>. Working beta — actively being built.</p>
       <p>
@@ -105,57 +117,14 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
-      <img src="https://img.shields.io/badge/Live-ffffff?style=flat-square&labelColor=0a0a0a&color=ffffff" />
+      <a href="https://rahulrathoreofficial.github.io/Rahul_Rathore">
+        <img src="https://img.shields.io/badge/Live-ffffff?style=flat-square&labelColor=0a0a0a&color=ffffff" />
+      </a>
       <p>Personal portfolio and blog built with vanilla web technologies. Features particle animations, dual themes, custom cursor, and scroll reveal effects.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a" />
         <img src="https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a" />
         <img src="https://img.shields.io/badge/JS-333?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a1a" />
-      </p>
-    </td>
-  </tr>
-  <tr><td colspan="2" height="20"></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☢️ X-Ray Sensing Suite</h3>
-      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-      <p>MATLAB & Python toolkit for analyzing <b>PMMA-MWCNT composite</b> X-Ray sensing data. Planned for future development.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/MATLAB-333?style=flat-square&logo=mathworks&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/NumPy-333?style=flat-square&logo=numpy&logoColor=white&labelColor=1a1a1a" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 Thin Film Simulator</h3>
-      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-      <p>Educational simulation of <b>PVD sputtering</b> and glow discharge processes. Planned for future development.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/Tkinter-333?style=flat-square&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/SciPy-333?style=flat-square&logo=scipy&logoColor=white&labelColor=1a1a1a" />
-      </p>
-    </td>
-  </tr>
-  <tr><td colspan="2" height="20"></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚛️ Quantum Puzzle</h3>
-      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-      <p>Physics-based puzzle game manipulating <b>electromagnetic fields</b>. Planned for future development.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-333?style=flat-square&logo=unity&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/C%23-333?style=flat-square&logoColor=white&labelColor=1a1a1a" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📐 Physics Formula Hub</h3>
-      <img src="https://img.shields.io/badge/Planned-444444?style=flat-square&labelColor=0a0a0a&color=444444" />
-      <p>Comprehensive reference app for physics formulas and constants. Planned for future development.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-333?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/Dart-333?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a1a" />
-        <img src="https://img.shields.io/badge/LaTeX-333?style=flat-square&logo=latex&logoColor=white&labelColor=1a1a1a" />
       </p>
     </td>
   </tr>
@@ -174,8 +143,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulrathoreofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathoreofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=888888&sideNums=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulrathoreofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=rahulrathoreofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=888888&sideNums=888888" width="48%" />
 </div>
 
 <br>
