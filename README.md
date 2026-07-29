@@ -1,178 +1,121 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=&fontSize=0&v=3" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=RAHUL+KUMAR+RATHORE&v=3" alt="RAHUL KUMAR RATHORE" />
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=20&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=700&height=35&lines=Physicist+%C2%B7+Developer+%C2%B7+Researcher;M.Sc.+Physics+%7C+Experimental+Research+%7C+Thin+Films&v=3" alt="Subtitle" />
-  <p>
-    <img src="https://img.shields.io/badge/%F0%9F%93%8D_Rishikesh,_Uttarakhand-0a0a0a?style=flat-square&logoColor=888888&labelColor=1a1a1a&color=333333&v=3" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%8E%93_H.N.B._Garhwal_University-0a0a0a?style=flat-square&logoColor=888888&labelColor=1a1a1a&color=333333&v=3" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/%F0%9F%94%AC_Delhi_University_Research-0a0a0a?style=flat-square&logoColor=888888&labelColor=1a1a1a&color=333333&v=3" />
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=1&v=3" width="60%">
-</div>
+# 👋 Rahul Kumar Rathore
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=ABOUT+ME&v=3" />
-</div>
+::: {align="center"}
+# ⚛️ Physicist • 💻 Developer • 🚀 AI Enthusiast
 
-<p align="center">
-  <b>Rahul Kumar Rathore</b><br>
-  M.Sc. Physics · H.N.B. Garhwal University<br>
-  Experimental Physicist → Developer<br>
-  📍 Rishikesh, Uttarakhand, India
+### Building technology inspired by science.
+
+`<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Experimental+Physicist;Full+Stack+Developer;Flutter+Developer;AI+%26+Scientific+Computing;Always+Learning+Something+New" />`{=html}
+
+```{=html}
+<p>
+```
+`<a href="https://github.com/rahulrathoreofficial">`{=html}`<img src="https://img.shields.io/github/followers/rahulrathoreofficial?style=for-the-badge"/>`{=html}`</a>`{=html}
+`<img src="https://komarev.com/ghpvc/?username=rahulrathoreofficial&style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
+:::
 
+------------------------------------------------------------------------
+
+# 🚀 About Me
+
+-   ⚛️ M.Sc. Physics
+-   🔬 Experimental Physics & Materials Research
+-   💻 Passionate about Software Engineering & AI
+-   📱 Flutter & Cross-platform Development
+-   🌐 Modern Web Development
+-   📊 Scientific Computing with Python
+
+> **"Physics explains the universe. Programming lets us build one."**
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+## Frameworks
+
+Flutter • Firebase • HTML • CSS
+
+## Scientific
+
+MATLAB • NumPy • SciPy • Matplotlib
+
+------------------------------------------------------------------------
+
+# 📌 Featured Projects
+
+## 🧮 Mathnetic
+
+Competitive Exam Learning Platform
+
+-   Brain Games
+-   Aptitude
+-   Calculators
+-   Flutter
+-   Firebase
+
+------------------------------------------------------------------------
+
+## 🌍 Portfolio
+
+Personal portfolio website with animations and responsive UI.
+
+------------------------------------------------------------------------
+
+# 🧪 Research
+
+**PMMA--MWCNT Composite for X-Ray Sensing**
+
+-   Thin Film Deposition
+-   RF Sputtering
+-   Glow Discharge
+-   Vacuum Technology
+-   Composite Materials
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Analytics
+
+```{=html}
 <p align="center">
-  I'm an M.Sc. Physics graduate with a strong foundation in experimental physics, materials science, and computational methods. My research on <b>PMMA-MWCNT composites for X-ray sensing</b> at Delhi University (under the guidance of Dr. Kulvinder Singh) sparked my interest in building things that matter — both in the lab and in code.<br><br>
-  Beyond research, I apply the same analytical rigor to developing apps, websites, software tools, and games. I believe the discipline of experimental physics, when translated into code, creates exceptional digital experiences.<br><br>
-  <b>Research Focus:</b> X-ray sensing, thin film deposition (PVD sputtering), glow discharge physics, composite materials<br>
-  <b>Development Focus:</b> Cross-platform apps (Flutter), scientific computing (Python/MATLAB), web experiences<br>
-  <b>Competitive Exams:</b> GATE 2022 · GATE 2023 · JEST 2022
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=rahulrathoreofficial&show_icons=true"/>`{=html}
+
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathoreofficial"/>`{=html}
+
+```{=html}
 </p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&v=3" width="60%">
-</div>
+```
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=TECH+STACK&v=3" />
-</div>
-<div align="center">
-Physics & Research
-<img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/MATLAB-1a1a1a?style=for-the-badge&logo=mathworks&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/Matplotlib-1a1a1a?style=for-the-badge&logo=plotly&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/SciPy-1a1a1a?style=for-the-badge&logo=scipy&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-Development
-<img src="https://img.shields.io/badge/Flutter-1a1a1a?style=for-the-badge&logo=flutter&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/Dart-1a1a1a?style=for-the-badge&logo=dart&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-Tools & Platforms
-<img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/LaTeX-1a1a1a?style=for-the-badge&logo=latex&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-<img src="https://img.shields.io/badge/Unity-1a1a1a?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=0a0a0a&v=3" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&v=3" width="60%">
-</div>
+------------------------------------------------------------------------
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=PROJECTS&v=3" />
-</div>
+# 🎯 Current Focus
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Σ Mathnetic</h3>
-      <img src="https://img.shields.io/badge/In%20Development-555555?style=flat-square&labelColor=0a0a0a&color=444444&v=3" />
-      <p>Competitive math exam prep app with <b>11 themes</b>, brain gym games, aptitude dojo, duel modes, and <b>20+ calculators</b>. Working beta — actively being built.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-333?style=flat-square&logo=flutter&logoColor=white&labelColor=1a1a1a&v=3" />
-        <img src="https://img.shields.io/badge/Dart-333?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a1a&v=3" />
-        <img src="https://img.shields.io/badge/Firebase-333?style=flat-square&logo=firebase&logoColor=white&labelColor=1a1a1a&v=3" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <a href="https://rahulrathoreofficial.github.io/Rahul_Rathore">
-        <img src="https://img.shields.io/badge/Live-ffffff?style=flat-square&labelColor=0a0a0a&color=ffffff&v=3" />
-      </a>
-      <p>Personal portfolio and blog built with vanilla web technologies. Features particle animations, dual themes, custom cursor, and scroll reveal effects.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-333?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a&v=3" />
-        <img src="https://img.shields.io/badge/CSS3-333?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a&v=3" />
-        <img src="https://img.shields.io/badge/JS-333?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a1a&v=3" />
-      </p>
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&v=3" width="60%">
-</div>
+-   🤖 Artificial Intelligence
+-   📱 Flutter
+-   💻 C#
+-   🌐 Web Development
+-   📚 Open Source
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=250&height=30&lines=CONTRIBUTIONS&v=3" />
-</div>
+------------------------------------------------------------------------
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulrathoreofficial&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true&v=3" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=rahulrathoreofficial&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=888888&sideNums=888888&v=3" width="100%" />
-    </td>
-  </tr>
-</table>
+# 📫 Connect
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/888888/rahulrathoreofficial?v=3" width="96%" alt="Contribution Calendar" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&v=3" width="60%">
-</div>
+-   GitHub: https://github.com/rahulrathoreofficial
+-   LinkedIn: https://linkedin.com/in/rahulrathoreofficial
+-   Portfolio: https://rahulrathoreofficial.github.io/Rahul_Rathore
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=RESEARCH&v=3" />
-</div>
+------------------------------------------------------------------------
 
-<div align="center">
-Masters Dissertation
-PMMA-MWCNT Composite for X-Ray Sensing
-Deen Dayal Upadhyaya College, Delhi University · Guide: Dr. Kulvinder Singh · 2016
-<img src="https://img.shields.io/badge/Thin_Film_Sputtering-1a1a1a?style=flat-square&labelColor=0a0a0a&color=222&v=3" />
-<img src="https://img.shields.io/badge/PVD_Systems-1a1a1a?style=flat-square&labelColor=0a0a0a&color=222&v=3" />
-<img src="https://img.shields.io/badge/Glow_Discharge-1a1a1a?style=flat-square&labelColor=0a0a0a&color=222&v=3" />
-<img src="https://img.shields.io/badge/X--Ray_Sensing-1a1a1a?style=flat-square&labelColor=0a0a0a&color=222&v=3" />
-<img src="https://img.shields.io/badge/Vacuum_Technology-1a1a1a?style=flat-square&labelColor=0a0a0a&color=222&v=3" />
-<img src="https://img.shields.io/badge/R.F._Systems-1a1a1a?style=flat-square&labelColor=0a0a0a&color=222&v=3" />
-</div>
-
-<div align="center">
-Seminars & Workshops
-Table
-Event	Host	Date
-GNSS & Location Based Services	IIRS Dehradun, ISRO	Mar 2022
-International Day of Light	IEEE Photonics & SPIE, IIT Guwahati	May 2020
-Light & Light Based Technologies	Optical Society of India & Doon University	Feb 2016
-Electronic Components 🥇 First Place	IAPT	Oct 2015
-Synthesis & Characterization of Thin Films	Gurukul Kangari University	May 2015
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&v=3" width="60%">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=30&lines=CONNECT&v=3" />
-</div>
-<p align="center">
-  <a href="https://rahulrathoreofficial.github.io/Rahul_Rathore">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=github-pages&logoColor=ffffff&labelColor=111111&v=3" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rahulrathoreofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=111111&v=3" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rahulrathoreofficial">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111&v=3" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulrathoreofficial&color=444444&style=flat-square&label=Profile+Views&v=3" />
-</p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&v=3" width="40%">
-</div>
-<p align="center">
-  <i>Built with curiosity from the foothills of the Himalayas</i>
-</p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=120&section=footer&text=&fontSize=0&v=3" width="100%">
-</div>
+::: {align="center"}
+### ⭐ Thanks for visiting!
+:::
